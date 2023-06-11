@@ -1,0 +1,23 @@
+## comandos basicos
+
+#filtra datos a condiciones
+find()
+
+#elimina filas duplicadas
+distinct()
+
+#redondea filas
+arrenge()
+
+#selecciona columnas
+select()
+
+#renombra columnas
+rename()
+
+#añade nuevas variables
+mutate()
+transmutate()
+
+# principales estadisticas
+Summary()
